@@ -1,0 +1,6 @@
+../Core/Src/LCD.c:10:6:LCD_Write_String	24	static
+../Core/Src/LCD.c:18:6:LCD_Initialization	8	static
+../Core/Src/LCD.c:27:6:LCD_HigerNibble	16	static
+../Core/Src/LCD.c:34:6:LCD_LowerNibble	16	static
+../Core/Src/LCD.c:43:6:LCD_Write_Data	16	static
+../Core/Src/LCD.c:58:6:LCD_Write_Command	16	static

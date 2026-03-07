@@ -1,0 +1,6 @@
+../Core/Src/LCD.c:10:6:LCD_Write_String	2
+../Core/Src/LCD.c:18:6:LCD_Initialization	1
+../Core/Src/LCD.c:27:6:LCD_HigerNibble	1
+../Core/Src/LCD.c:34:6:LCD_LowerNibble	1
+../Core/Src/LCD.c:43:6:LCD_Write_Data	1
+../Core/Src/LCD.c:58:6:LCD_Write_Command	1
