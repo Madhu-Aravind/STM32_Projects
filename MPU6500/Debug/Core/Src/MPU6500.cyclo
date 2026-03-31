@@ -1,0 +1,7 @@
+../Core/Src/MPU6500.c:7:20:CS_LOW	1
+../Core/Src/MPU6500.c:12:20:CS_HIGH	1
+../Core/Src/MPU6500.c:18:13:MPU6500_Write	1
+../Core/Src/MPU6500.c:31:13:MPU6500_Read	3
+../Core/Src/MPU6500.c:50:6:MPU6500_Init	1
+../Core/Src/MPU6500.c:70:9:MPU6500_WhoAmI	1
+../Core/Src/MPU6500.c:78:6:MPU6500_Read_All	1
